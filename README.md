@@ -1,6 +1,19 @@
 # Hey! Nice to see you.
 <p>Welcome to my page! </br>  I'm Shazid, a <b> MERN Stack</b> Developer from <b>Dhaka, Bangladesh.<b> </p>
 
+## 💫 About Me:
+Hi! I'm **Shazid**, a passionate **MERN Stack Developer**.  
+I love building clean, functional, and user-friendly web applications.  
+Always learning, always coding. 🚀
+
+- 🌱 Currently learning **Next.js** & **TypeScript**  
+- 💬 Ask me about **React, Node.js, MongoDB, Express**  
+- 🛠️ I enjoy solving real-world problems through code  
+- ⚡ Fun fact: I can debug code faster with a cup of coffee ☕  
+- 🎯 Goal: Become a top-tier full-stack developer  
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shazidulislam&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shazidulislam&theme=default&hide_border=false)<br/>

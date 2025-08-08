@@ -1,7 +1,9 @@
 # Hey! Nice to see you.
 <p>Welcome to my page! </br>  I'm Shazid, a <b> MERN Stack</b> Developer from <b>Dhaka, Bangladesh.<b> </p>
 <img src="https://github.com/Shazidulislam/shazidulislam/blob/main/github-banner.png?raw=true" />
+  
 ## 💫 About Me:
+  
 I am a passionate developer and creative problem-solver who loves turning ideas into interactive, user-friendly web apps.  
 Always exploring new technologies and refining my craft. 🚀
 

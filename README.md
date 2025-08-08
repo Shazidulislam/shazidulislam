@@ -2,9 +2,8 @@
 <p>Welcome to my page! </br>  I'm Shazid, a <b> MERN Stack</b> Developer from <b>Dhaka, Bangladesh.<b> </p>
 
 ## 💫 About Me:
-Hi! I'm **Shazid**, a passionate **MERN Stack Developer**.  
-I love building clean, functional, and user-friendly web applications.  
-Always learning, always coding. 🚀
+I am a passionate developer and creative problem-solver who loves turning ideas into interactive, user-friendly web apps.  
+Always exploring new technologies and refining my craft. 🚀
 
 - 🌱 Currently learning **Next.js** & **TypeScript**  
 - 💬 Ask me about **React, Node.js, MongoDB, Express**  

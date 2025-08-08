@@ -1,5 +1,5 @@
 # Hey! Nice to see you.
-<p>Welcome to my page! </br>  I'm Shazid, a <span className="font-bold" > MERN Stack</span> Developer from <span className="font-bold" >Dhaka, Bangladesh.</span> </p>
+<p>Welcome to my page! </br>  I'm Shazid, a <b> MERN Stack</b> Developer from <b>Dhaka, Bangladesh.<b> </p>
 
 
 

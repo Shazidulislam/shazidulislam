@@ -6,17 +6,19 @@
 
 
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shazidulislam&theme=default&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shazidulislam&theme=default&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazidulislam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=Shazidulislam&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shazidulislam&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shazidulislam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
+<p align="center"> 
+<a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> 
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakilahmedatik/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" />
-  </a>
+[![](https://visitcount.itsvg.in/api?id=Shazidulislam&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 
